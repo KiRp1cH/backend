@@ -3,3 +3,4 @@ Stack:
 - Rails 7.0.2
 - Postgres 14
 - GraphQL
+- Apollo
